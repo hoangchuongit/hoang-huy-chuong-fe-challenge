@@ -1,0 +1,28 @@
+.currencySwapForm {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .currencySwapForm div {
+    margin-bottom: 1em;
+  }
+  
+  .currencySwapForm label {
+    margin-right: 1em;
+  }
+  
+  .currencySwapForm input,
+  .currencySwapForm select {
+    width: 100%;
+  }
+  
+  .currencySwapForm button {
+    padding: 0.5em;
+  }
+  
+  .error {
+    color: red;
+  }
+  
